@@ -1,4 +1,4 @@
-Here are thr interview questions for Operating System
+Here are the interview questions for Operating System
 
 
 1) Interview Bit: 
