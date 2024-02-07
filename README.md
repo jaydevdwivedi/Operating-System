@@ -1,10 +1,16 @@
-1) Interview Bit
+Here are thr interview questions for Operating System
+
+
+1) Interview Bit: 
+
 https://www.interviewbit.com/operating-system-interview-questions/#demand-paging
 
-2) Javatpoint
+2) Javatpoint: 
+
 https://www.javatpoint.com/operating-system-interview-questions
 
 Prompt from ChatGPT:
+
 Here are some interview questions on Operating System topics related to Virtual Memory, Page Replacement Algorithms, Demand Paging, and Thrashing:
 
 1. **Virtual Memory**:
